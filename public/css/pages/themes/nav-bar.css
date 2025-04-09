@@ -1,0 +1,12 @@
+header{
+    box-shadow: 2px 2px 2px black;
+    height: 60px;
+}
+
+ul{
+    display: flex;
+}
+
+ul li{
+    list-style: none;
+}
